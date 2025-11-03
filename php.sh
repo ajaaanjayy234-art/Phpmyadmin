@@ -11,7 +11,7 @@ echo -e "${CYAN}"
 echo "=================================================="
 echo "          🚀 AUTO INSTALL PHPMYADMIN v1.0      "
 echo "     Subdirectory Installer (e.g., domain.com/phpmyadmin)"
-echo "             by Spacehost Cloud                  "
+echo "             by SAGA STORE                  "
 echo "=================================================="
 echo -e "${NC}"
 
